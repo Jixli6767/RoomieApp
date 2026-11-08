@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct ContentView: View {
-    var body:
-}
+    var body:some View {
+        Text("Sign in to Roomie")
+            .font(.largeTitle)
+    }}
 
